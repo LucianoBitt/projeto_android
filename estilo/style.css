@@ -33,7 +33,7 @@ a.externo::after {
 }
 
 p {
-    margin: 15px 0px;
+    margin: 1px 0px;
     text-align: justify;
 }
 
@@ -98,8 +98,6 @@ main {
     padding: 20px;
     background-color: white;
     box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.418);
-    border-bottom-left-radius: 10px;
-    border-bottom-right-radius: 10px;
     text-indent: 30px;
 }
 
