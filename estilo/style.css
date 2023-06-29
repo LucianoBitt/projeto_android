@@ -120,6 +120,7 @@ main h2 {
 
 main p {
     margin: 15px 0px;
+    margin-bottom: -10px;
     text-align: justify;
     text-indent: 30px;
     font-size: 1em;
