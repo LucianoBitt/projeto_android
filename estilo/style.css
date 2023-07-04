@@ -97,7 +97,7 @@ main {
     max-width: 1350px;
     margin: auto;
     padding: 10px;
-    background-color: rgba(230, 230, 230, 0.719);
+    background-color: rgba(230, 230, 230, 0.747);
     box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.418);
     text-indent: 30px;
 }
@@ -173,7 +173,7 @@ div.video iframe {
 }
 
 aside {
-    background-color: var(--cor1);
+    background-color: #3ddc854d;
     padding: 10px;
     border-radius: 10px;
     box-shadow: 3px 3px 8px rgba(0, 0, 0, 0.281);
