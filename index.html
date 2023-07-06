@@ -10,20 +10,23 @@
     <link rel="stylesheet" href="estilo/style.css">
     <style>
         header {
-            background-image: url(imagens-cap19/wallpaper_android03.jpg);
+            /*background-image: url(imagens-cap19/wallpaper_android03.jpg);
             background-position: center top;
             background-repeat: repeat;
             background-position-y: -85px;
             background-size: cover;
-            background-attachment: fixed;
+            background-attachment: fixed;*/
+            /* Shorthand - background - ordem correta
+                color > image > position > repeat > [size] > attachment
+            */
+            background: black url(imagens-cap19/wallpaper_android03.jpg) center top repeat fixed;
+            background-position-y: -85px;
+            background-size: cover;
         }
         
         body {
-            background-image: url(imagens-cap19/wallpaper_android06.jpg);
-            background-position: center top;
-            background-repeat: repeat;
+            background: black url(imagens-cap19/wallpaper_android06.jpg) center top repeat fixed;
             background-size: cover;
-            background-attachment: fixed;
         }
     </style>
 </head>
