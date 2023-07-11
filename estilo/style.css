@@ -130,7 +130,7 @@ main p {
 }
 
 main strong {
-    color: var(--cor4);
+    color: #3c7000;
     font-weight: bold;
 }
 
@@ -234,10 +234,10 @@ footer p {
 
 footer a.git:hover {
     text-decoration: underline;
-    color: var(--cor1);
+    color: #2e5700;
 }
 
 footer a.cev:hover {
     text-decoration: underline;
-    color: var(--cor1);
+    color: #2e5700;
 }
