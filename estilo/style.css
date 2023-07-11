@@ -105,7 +105,7 @@ main {
 main h1 {
     color: var(--cor5);
     font-family: var(--fonte-android);
-    font-weight: normal;
+    font-weight: bold;
     font-size: 1.8em;
     text-indent: 8px;
 }
